@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Arpit Deva 👋
 
-<!--
-**arpitdeva09/arpitdeva09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Computer Science & Engineering Student**
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning **Java**, **C**, and **Data Structures & Algorithms**
+* 💻 Building Java projects to improve my programming skills
+* 🚀 Interested in Software Development
+* 📚 Always learning new technologies
+
+## 🛠️ Skills
+
+* Java
+* C/C++
+* Object-Oriented Programming (OOP)
+* Git & GitHub
+
+## 📂 Featured Projects
+
+* 🎓 Student Management System (Java)
+* 📊 Java Practice Programs
+* 🔢 Data Structures & Algorithms (Learning)
+
+## 🎯 Goals
+
+* Build real-world Java applications
+* Strengthen problem-solving skills
+* Contribute to open-source projects
+* Become a Software Developer
+
+## 📫 Connect with Me
+
+* GitHub: https://github.com/your-username
+
+⭐ Thanks for visiting my profile!
