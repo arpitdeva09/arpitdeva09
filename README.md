@@ -18,7 +18,7 @@
 
 ## 📂 Featured Projects
 
-* 🎓 Student Management System (Java)
+* 🎓 College Leave Application (Java)
 * 📊 Java Practice Programs
 * 🔢 Data Structures & Algorithms (Learning)
 
